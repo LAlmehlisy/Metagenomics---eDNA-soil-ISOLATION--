@@ -13,4 +13,3 @@ Example testing the GetHup
 
 ## Things to do after this workshop
 - Creat your OLS Project 
-- 

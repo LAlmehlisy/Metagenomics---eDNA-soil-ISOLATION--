@@ -1,4 +1,4 @@
-# Metagenomics eDNA soil Isolation Project
+# Metagenomics eDNA Soil Isolation Project
 Example testing the GetHup
 ## Road Map for the project
 * Creat repo

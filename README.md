@@ -22,5 +22,5 @@ Example testing the GetHup
 - ask for help if needed.
 - Watch the YouTube Recorded video.
 - try to add more images for the project,
-- more detalis about the project workflow.
+- more detalis about the project workflow. 
 
